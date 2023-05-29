@@ -1,0 +1,8 @@
+{
+  "name": "my-project",
+  "version-string": "0.0.1",
+  "builtin-baseline": "51764a83047a142efa03042a49a7f8db8c3c4d3e",
+  "dependencies": [
+    "gsoap"
+  ]
+}
